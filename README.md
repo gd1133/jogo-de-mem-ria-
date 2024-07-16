@@ -1,2 +1,2 @@
-# jogo-de-mem-ria-
+# jogo-de-memo-ria-
 ótimo passar tempo 
